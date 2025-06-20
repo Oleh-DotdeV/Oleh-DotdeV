@@ -25,6 +25,7 @@
 
 ### 🧠 Django Notes API
 > REST API service with authentication, filtering, and custom business logic.
+> [View project](https://www.canva.com/design/DAGntBzCYdM/JdGMKtAtQCkI7ht6DPxslA/view?utm_content=DAGntBzCYdM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8fc280a2d6)
 
 ---
 
