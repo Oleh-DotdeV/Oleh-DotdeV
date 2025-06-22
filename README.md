@@ -18,6 +18,7 @@
 
 ### 🛍️ E-commerce Website
 > A full-featured online store with cart, user authentication, and admin panel.
+> [View project](https://www.canva.com/design/DAGrG8VF2FE/CKjFNeZKTxw4TUC5RBcbOQ/view?utm_content=DAGrG8VF2FE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h40eba48454)
 
 ### 🔐 CRUD Registration System
 > User registration, logging in, creating posts, editing and deleting them.
