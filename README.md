@@ -22,7 +22,7 @@
 
 ### 🔐 CRUD Registration System
 > User registration, logging in, creating posts, editing and deleting them.
->  [View project](https://www.canva.com/design/DAGntBzCYdM/JdGMKtAtQCkI7ht6DPxslA/view?utm_content=DAGntBzCYdM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8fc280a2d6)
+>  [View project](https://www.canva.com/design/DAGrz3ZI7pU/Mh6Gnuog1bIFOjZA1DghZg/view?utm_content=DAGrz3ZI7pU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5680ac2325)
 
 ### 🧠 Django Notes API
 > REST API service with authentication, filtering, and custom business logic.
